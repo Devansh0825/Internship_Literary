@@ -13,7 +13,7 @@ import { Clapperboard, Globe, HeartPulse, Utensils } from "lucide-react";
 
 
 // import "../CraftClub/ArtClub/WelcomePage"
-
+//welcome page
 export default function HomePage() {
   const router = useRouter();
 
